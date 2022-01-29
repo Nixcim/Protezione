@@ -1,0 +1,27 @@
+
+{
+    "kachi": "",
+    "owner": ["",""],
+    "prefix": "!",
+    "mainbots": {
+        "game": "",
+        "type": "COMPETING",
+        "status": "idle"
+    },
+    "helperbots": {
+        "game": "",
+        "type": "COMPETING",
+        "status": "idle"
+    },
+    "footer": "",
+    "emojis": {
+        "onay": "👍",
+        "notr": "🤳",
+        "red": "👎"
+    },
+    "guildID": "",
+    "voiceChannel": "",
+    "booster": "",
+    "jail": "",
+    "url": ""
+}
